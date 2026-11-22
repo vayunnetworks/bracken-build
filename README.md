@@ -1,5 +1,7 @@
 # Build and release engineering — BRACKEN Engineering Guide
 
+> Build and release engineering for BRACKEN: pinned inputs, packages, product profiles, system images, validation, manifests, and artifact provenance.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Build
