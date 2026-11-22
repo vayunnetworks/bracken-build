@@ -2,6 +2,8 @@
 
 > Build and release engineering for BRACKEN: pinned inputs, packages, product profiles, system images, validation, manifests, and artifact provenance.
 
+> Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Build
